@@ -32,15 +32,15 @@ export const PROFILE = {
 
   links: {
     github: 'https://github.com/CODERUDRA-X',
-    linkedin: 'https://linkedin.com/in/shreyansh-srivastava-9a83b9291',
+    linkedin: 'https://linkedin.com/in/coderudrax',
   },
 };
 
 // Intel Vault card data — also extracted from static HTML for the same
 // reason (single source of truth, easy to update without touching markup).
 export const INTEL_CARDS = {
-  resumeHref: 'assets/Shreyansh_Resume_Final.pdf',
+  resumeHref: 'https://drive.google.com/file/d/1LfebYO0a4t-KCDus46SFyuZo7VWMTB9U/view?usp=sharing',
   githubHref: 'https://github.com/CODERUDRA-X',
-  linkedinHref: 'https://linkedin.com/in/shreyansh-srivastava-9a83b9291',
+  linkedinHref: 'https://linkedin.com/in/coderudrax',
   email: 'harshgroups247@gmail.com',
 };
