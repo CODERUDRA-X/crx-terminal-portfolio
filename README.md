@@ -2,7 +2,9 @@
   
 # CODERUDRA-X — Command Center 🛰️
 
-**A Military-Grade Interactive Portfolio.** Not a scrolling résumé — a full tactical command center: hold-to-deploy boot sequence, free-fall drop into a live Leaflet radar map, six mission "islands" with drill-down sector recon, and a holographic HUD for every project.
+### "The Most Hardcore Spatial Intelligence Portfolio on the Internet™️"
+
+**A Military-Grade Mission Control Terminal.** Not a scrolling résumé — a full tactical command center: hold-to-deploy boot sequence, free-fall drop into a live Leaflet radar map, and modular "Islands" rendering localized sub-maps for spatial intelligence assets.
 
   <img src="https://github.com/CODERUDRA-X/CODERUDRA-X_Command_Center/blob/main/public/assets/wow.png?raw=true" alt="NAAD Logo" width="900"/>
 
@@ -10,12 +12,19 @@
 [![Built with Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev)
 [![License](https://img.shields.io/github/license/CODERUDRA-X/CODERUDRA-X_Command_Center?style=for-the-badge)](LICENSE)
 
-<!--
-  Drop a screen-recording GIF here once you have one — this is the single
-  biggest thing that makes a repo README "pop" the way Kuber's does.
-  ![demo](public/assets/demo.gif)
--->
 </div>
+
+## 🛡️ Strategic Operational Status (Stealth Mode Active)
+
+This terminal is the central mainframe of **CODERUDRA-X**. It tracks core R&D engineering, decentralized architectures, and mission-critical vision systems developed over 2.5 years of absolute isolation.
+
+*   🛸 **AEGIS-SWARM:** Core AI Defense Tech flagship featuring decentralized multi-agent decision intelligence logic. **[OFFICIALLY RECOGNIZED BY THE INDIAN AIR FORCE (IAF) 🇮🇳]**.
+*   🎙️ **NAAD PROTOCOL:** An ultra-low bandwidth secure transport protocol for Edge AI in degraded networks. **[SHORTLISTED FOR YC VOICE AGENTS HACKATHON, SAN FRANCISCO 🇺🇸]**.
+*   📄 **Intellectual Property:** 4 Core Research Papers locked/pending publication & 1 Deep-Tech Patent currently under construction.
+
+*Note: Core source repositories and full text for defense assets are running under active IP protection. Access is restricted to Level 5 Clearances only.*
+
+---
 
 ## 👁️ The Interface Directive
 
